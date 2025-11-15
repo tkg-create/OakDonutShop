@@ -8,6 +8,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oakdb/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/oakdb/db.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oakdb/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/oakdb/log/log.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oakdb/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/oakdb/log/log1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oakdb/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/oakdb/log/logmirror.ctrl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oakdb/seg0/c400.dat" beforeDir="false" afterPath="$PROJECT_DIR$/oakdb/seg0/c400.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oakdb/seg0/c4b0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/oakdb/seg0/c4b0.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oakdb/seg0/c4c1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/oakdb/seg0/c4c1.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +131,7 @@
       <workItem from="1762990536687" duration="951000" />
       <workItem from="1762993807329" duration="95000" />
       <workItem from="1762993936224" duration="42000" />
+      <workItem from="1763214337271" duration="1367000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
