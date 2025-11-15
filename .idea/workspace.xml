@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="488781da-4835-4ef2-a499-61b39b4dfaad" name="Changes" comment="" />
+    <list default="true" id="488781da-4835-4ef2-a499-61b39b4dfaad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oakdb/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/oakdb/db.lck" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +122,9 @@
       <workItem from="1762986980517" duration="2408000" />
       <workItem from="1762989413609" duration="58000" />
       <workItem from="1762989480153" duration="24000" />
-      <workItem from="1762990536687" duration="856000" />
+      <workItem from="1762990536687" duration="951000" />
+      <workItem from="1762993807329" duration="95000" />
+      <workItem from="1762993936224" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
